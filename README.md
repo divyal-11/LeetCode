@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0020-valid-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/divyal-11/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/divyal-11/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/divyal-11/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/divyal-11/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
