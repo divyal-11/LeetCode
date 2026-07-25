@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/divyal-11/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/divyal-11/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/divyal-11/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/divyal-11/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## String
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/divyal-11/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/divyal-11/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1260-shift-2d-grid](https://github.com/divyal-11/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1331-rank-transform-of-an-array](https://github.com/divyal-11/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/divyal-11/LeetCode/tree/master/1260-shift-2d-grid) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/divyal-11/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
