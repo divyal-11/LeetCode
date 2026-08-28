@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/divyal-11/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyal-11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/divyal-11/LeetCode/tree/master/0877-stone-game) |
+| [1922-count-good-numbers](https://github.com/divyal-11/LeetCode/tree/master/1922-count-good-numbers) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/divyal-11/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Two Pointers
 |  |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0825-friends-of-appropriate-ages](https://github.com/divyal-11/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/divyal-11/LeetCode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
