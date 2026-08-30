@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0022-generate-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/divyal-11/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/divyal-11/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/divyal-11/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0022-generate-parentheses) |
 | [0877-stone-game](https://github.com/divyal-11/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/divyal-11/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/divyal-11/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/divyal-11/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/divyal-11/LeetCode/tree/master/0078-subsets) |
@@ -137,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/divyal-11/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divyal-11/LeetCode/tree/master/0090-subsets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
