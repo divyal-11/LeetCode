@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyal-11/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/divyal-11/LeetCode/tree/master/0079-word-search) |
 | [0556-next-greater-element-iii](https://github.com/divyal-11/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/divyal-11/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/divyal-11/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/divyal-11/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/divyal-11/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/divyal-11/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/divyal-11/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/divyal-11/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/divyal-11/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/divyal-11/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/divyal-11/LeetCode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/divyal-11/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Sorting
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/divyal-11/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/divyal-11/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/divyal-11/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/divyal-11/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/divyal-11/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/divyal-11/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
@@ -157,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/divyal-11/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/divyal-11/LeetCode/tree/master/0052-n-queens-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/divyal-11/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
