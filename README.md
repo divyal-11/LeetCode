@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyal-11/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/divyal-11/LeetCode/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/divyal-11/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/divyal-11/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/divyal-11/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/divyal-11/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/divyal-11/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/divyal-11/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/divyal-11/LeetCode/tree/master/0051-n-queens) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/divyal-11/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/divyal-11/LeetCode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/divyal-11/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Sorting
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyal-11/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/divyal-11/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/divyal-11/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/divyal-11/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/divyal-11/LeetCode/tree/master/0051-n-queens) |
@@ -159,10 +163,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/divyal-11/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/divyal-11/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/divyal-11/LeetCode/tree/master/0052-n-queens-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/divyal-11/LeetCode/tree/master/0079-word-search) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/divyal-11/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
