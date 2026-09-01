@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/divyal-11/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/divyal-11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0556-next-greater-element-iii](https://github.com/divyal-11/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/divyal-11/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/divyal-11/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/divyal-11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0877-stone-game](https://github.com/divyal-11/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/divyal-11/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/divyal-11/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/divyal-11/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/divyal-11/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/divyal-11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/divyal-11/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
