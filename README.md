@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/divyal-11/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/divyal-11/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/divyal-11/LeetCode/tree/master/0282-expression-add-operators) |
 | [0556-next-greater-element-iii](https://github.com/divyal-11/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/divyal-11/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/divyal-11/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/divyal-11/LeetCode/tree/master/0007-reverse-integer) |
+| [0282-expression-add-operators](https://github.com/divyal-11/LeetCode/tree/master/0282-expression-add-operators) |
 | [0556-next-greater-element-iii](https://github.com/divyal-11/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyal-11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/divyal-11/LeetCode/tree/master/0877-stone-game) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/divyal-11/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/divyal-11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/divyal-11/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/divyal-11/LeetCode/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
