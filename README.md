@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/divyal-11/LeetCode/tree/master/0007-reverse-integer) |
+| [0060-permutation-sequence](https://github.com/divyal-11/LeetCode/tree/master/0060-permutation-sequence) |
 | [0282-expression-add-operators](https://github.com/divyal-11/LeetCode/tree/master/0282-expression-add-operators) |
 | [0556-next-greater-element-iii](https://github.com/divyal-11/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyal-11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/divyal-11/LeetCode/tree/master/0060-permutation-sequence) |
 | [1922-count-good-numbers](https://github.com/divyal-11/LeetCode/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
