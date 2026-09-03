@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/divyal-11/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3731-find-missing-elements](https://github.com/divyal-11/LeetCode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/divyal-11/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3875-construct-uniform-parity-array-i](https://github.com/divyal-11/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/divyal-11/LeetCode/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/divyal-11/LeetCode/tree/master/1922-count-good-numbers) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/divyal-11/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3875-construct-uniform-parity-array-i](https://github.com/divyal-11/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
