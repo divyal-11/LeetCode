@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/divyal-11/LeetCode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/divyal-11/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3875-construct-uniform-parity-array-i](https://github.com/divyal-11/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/divyal-11/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/divyal-11/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/divyal-11/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
