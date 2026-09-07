@@ -9,11 +9,12 @@ public:
         return fact;
     }
     void solve(int n, int& k) {
-        int grp = (k - 1) / factorial(n - 1);
-        ans += numbers[grp];
-        numbers.erase(grp, 1);
+        int grpsize = factorial(n - 1);
+        int grpnum = (k - 1) / grpsize;
+        ans += numbers[grpnum];
+        numbers.erase(grpnum, 1);
 
-        k = (k - 1) % factorial(n - 1)+1;
+        k = (k -1) % factorial(n - 1) +1;
     }
     string getPermutation(int n, int k) {
         for (int i = 1; i <= n; i++) {
