@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/divyal-11/LeetCode/tree/master/0079-word-search) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/divyal-11/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dancing Links
 |  |
 | ------- |
@@ -214,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/divyal-11/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/divyal-11/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/divyal-11/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/divyal-11/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
