@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/divyal-11/LeetCode/tree/master/0282-expression-add-operators) |
 | [0556-next-greater-element-iii](https://github.com/divyal-11/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyal-11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/divyal-11/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/divyal-11/LeetCode/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/divyal-11/LeetCode/tree/master/1922-count-good-numbers) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/divyal-11/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -232,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/divyal-11/LeetCode/tree/master/0450-delete-node-in-a-bst) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/divyal-11/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
