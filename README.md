@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/divyal-11/LeetCode/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/divyal-11/LeetCode/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/divyal-11/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/divyal-11/LeetCode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/divyal-11/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyal-11/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyal-11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/divyal-11/LeetCode/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/divyal-11/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0825-friends-of-appropriate-ages](https://github.com/divyal-11/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 ## Dynamic Programming
