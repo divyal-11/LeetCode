@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/divyal-11/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/divyal-11/LeetCode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/divyal-11/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/divyal-11/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/divyal-11/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyal-11/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyal-11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/divyal-11/LeetCode/tree/master/0223-rectangle-area) |
 | [0282-expression-add-operators](https://github.com/divyal-11/LeetCode/tree/master/0282-expression-add-operators) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/divyal-11/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/divyal-11/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0556-next-greater-element-iii](https://github.com/divyal-11/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyal-11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/divyal-11/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/divyal-11/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyal-11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/divyal-11/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [1331-rank-transform-of-an-array](https://github.com/divyal-11/LeetCode/tree/master/1331-rank-transform-of-an-array) |
