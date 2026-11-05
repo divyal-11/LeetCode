@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/divyal-11/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1260-shift-2d-grid](https://github.com/divyal-11/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/divyal-11/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/divyal-11/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/divyal-11/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/divyal-11/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3731-find-missing-elements](https://github.com/divyal-11/LeetCode/tree/master/3731-find-missing-elements) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/divyal-11/LeetCode/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/divyal-11/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0825-friends-of-appropriate-ages](https://github.com/divyal-11/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/divyal-11/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/divyal-11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/divyal-11/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [1331-rank-transform-of-an-array](https://github.com/divyal-11/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/divyal-11/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3731-find-missing-elements](https://github.com/divyal-11/LeetCode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/divyal-11/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Game Theory
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0825-friends-of-appropriate-ages](https://github.com/divyal-11/LeetCode/tree/master/0825-friends-of-appropriate-ages) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/divyal-11/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Recursion
 |  |
 | ------- |
