@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/divyal-11/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1260-shift-2d-grid](https://github.com/divyal-11/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/divyal-11/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/divyal-11/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/divyal-11/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyal-11/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1882-process-tasks-using-servers](https://github.com/divyal-11/LeetCode/tree/master/1882-process-tasks-using-servers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/divyal-11/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/divyal-11/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/divyal-11/LeetCode/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/divyal-11/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyal-11/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/divyal-11/LeetCode/tree/master/1922-count-good-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/divyal-11/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -145,10 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/divyal-11/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/divyal-11/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/divyal-11/LeetCode/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/divyal-11/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/divyal-11/LeetCode/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/divyal-11/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/divyal-11/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/divyal-11/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3903-smallest-stable-index-i](https://github.com/divyal-11/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/divyal-11/LeetCode/tree/master/3904-smallest-stable-index-ii) |
