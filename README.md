@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/divyal-11/LeetCode/tree/master/0079-word-search) |
 | [0872-leaf-similar-trees](https://github.com/divyal-11/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/divyal-11/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/divyal-11/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dancing Links
 |  |
@@ -274,12 +275,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/divyal-11/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/divyal-11/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/divyal-11/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/divyal-11/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/divyal-11/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/divyal-11/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/divyal-11/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/divyal-11/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/divyal-11/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/divyal-11/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/divyal-11/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
