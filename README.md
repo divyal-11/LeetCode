@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/divyal-11/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/divyal-11/LeetCode/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/divyal-11/LeetCode/tree/master/0282-expression-add-operators) |
+| [0394-decode-string](https://github.com/divyal-11/LeetCode/tree/master/0394-decode-string) |
 | [0556-next-greater-element-iii](https://github.com/divyal-11/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/divyal-11/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/divyal-11/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/divyal-11/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/divyal-11/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/divyal-11/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/divyal-11/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/divyal-11/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyal-11/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/divyal-11/LeetCode/tree/master/0901-online-stock-span) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/divyal-11/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/divyal-11/LeetCode/tree/master/0060-permutation-sequence) |
+| [0394-decode-string](https://github.com/divyal-11/LeetCode/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/divyal-11/LeetCode/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
